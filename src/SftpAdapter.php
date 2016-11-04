@@ -1,6 +1,6 @@
 <?php
 
-namespace League\Flysystem\Sftp;
+namespace Genster\Sftp;
 
 use InvalidArgumentException;
 use League\Flysystem\Adapter\AbstractFtpAdapter;
