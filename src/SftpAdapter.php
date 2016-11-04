@@ -114,11 +114,11 @@ class SftpAdapter extends AbstractFtpAdapter
     }
 
     /**
-     * @param Agent $agent
+     * @param $agent
      *
      * @return $this
      */
-    public function setAgent(Agent $agent)
+    public function setAgent($agent)
     {
         $this->agent = $agent;
 
